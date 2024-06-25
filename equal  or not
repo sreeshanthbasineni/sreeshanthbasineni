@@ -1,0 +1,4 @@
+def equal_or_not(a, b):
+    return a == b
+print(equal_or_not(5, 5))  
+print(equal_or_not(5, 10))  
